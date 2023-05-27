@@ -1,0 +1,17 @@
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.csproj.AssemblyReference.cache
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.AssemblyInfoInputs.cache
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.AssemblyInfo.cs
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.csproj.CoreCompileInputs.cache
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\ChefRemy.exe
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\ChefRemy.deps.json
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\ChefRemy.runtimeconfig.json
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\ChefRemy.runtimeconfig.dev.json
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\ChefRemy.dll
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\ChefRemy.pdb
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Labs\DIplom\ChefRemy\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.csproj.CopyComplete
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.dll
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.pdb
+C:\Labs\DIplom\ChefRemy\obj\Debug\netcoreapp3.1\ChefRemy.genruntimeconfig.cache
